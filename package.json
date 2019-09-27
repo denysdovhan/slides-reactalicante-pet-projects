@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "name": "slides-topic",
+  "version": "0.0.0",
+  "description": "Slides for my talk about Topic",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server"
+  },
+  "author": "Denys Dovhan <denysdovhan@gmail.com> (http://denysdovhan.com)",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
+}
