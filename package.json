@@ -1,8 +1,8 @@
 {
   "private": true,
-  "name": "slides-topic",
+  "name": "slides-reactalicante-pet-projects",
   "version": "0.0.0",
-  "description": "Slides for my talk about Topic",
+  "description": "Slides for my talk about pet-projects at React Alicante",
   "main": "index.html",
   "scripts": {
     "start": "http-server"

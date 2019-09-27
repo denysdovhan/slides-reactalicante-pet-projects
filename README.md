@@ -14,9 +14,9 @@ How to setup:
 
 ---
 
-# slides-topic
+# slides-reactalicante-pet-projects
 
-> Slides for my talk about Topic
+> Slides for my talk about pet-projects at [React Alicante](https://reactalicante.es)
 
 ## Scripts
 
